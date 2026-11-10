@@ -1,0 +1,7 @@
+{
+    "staging_url": "http://checkmarklic.com/",
+    "production_url": "https://checkmark.com/",
+    "same_domain_only": true,
+    "timeout": 30000,
+    "output_file": "reports/crawl_results.csv"
+}

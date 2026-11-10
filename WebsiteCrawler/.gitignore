@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Credentials and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.idea/
+
+# Generated test results
+test-results/
+playwright-report/
+
+# Generated screenshots
+reports/*.png
